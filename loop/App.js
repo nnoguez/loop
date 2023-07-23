@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <NavigationContainer>
-      {selectedOption ? ( // if option is selected show main stack
+      {selectedOption ? (
         
         <MainStack.Navigator>
           <MainStack.Screen

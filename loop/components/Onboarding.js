@@ -6,19 +6,19 @@ import { RFValue } from "react-native-responsive-fontsize";
 const slides = [
   {
     id: 1,
-    image: "https://www.vecteezy.com/vector-art/16265359-happy-people-in-subway-flat-vector-illustration",
+    image: "https://claimsmaid.com/wp-content/uploads/2020/10/two-men-having-car-accident-isolated-flat-vector-illustration-cartoon-people-looking-automobile-damage_74855-8655.png",
     text: "Seamless City Travel",
     subtext: "Discover the easiest way to navigate Chicago with our intuitive transport app.",
   },
   {
     id: 2,
-    image: "https://www.busylittlekiddies.com/wp-content/uploads/Fish-11.png",
+    image: "https://www.mycrewcare.com.au/wp-content/uploads/2023/06/Female-on-wheelchair-using-ramp-to-access-bus.png",
     text: "Personalized Routes, Tailored for You",
     subtext: "Effortlessly find the best routes and transport options tailored to your needs.",
   },
   {
     id: 3,
-    image: "https://www.busylittlekiddies.com/wp-content/uploads/Fish-11.png",
+    image: "https://cdni.iconscout.com/illustration/premium/thumb/people-riding-rental-bikes-5776783-4825734.png?f=webp",
     text: "Unforgettable Journeys Await",
     subtext: "Enjoy a seamless and personalized travel experience as you explore the vibrant city of Chicago.",
   },
